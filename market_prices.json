@@ -1,0 +1,250 @@
+{
+  "date": "8 Sep 2026",
+  "source": "National Wholesale Market (AMB)",
+  "source_url": "https://ambmauritius.mu/wp-content/uploads/2026/09/DAILY-NWM-STATISTICS-VEG-FRUITS-08.09.26.pdf",
+  "updated_count": 37,
+  "total_crops": 40,
+  "sentiment": "",
+  "prices": {
+    "aubergine": {
+      "low": 50,
+      "high": 80,
+      "common": 60,
+      "unit": "kg"
+    },
+    "basil": {
+      "low": 200,
+      "high": 300,
+      "common": 250,
+      "unit": "kg"
+    },
+    "bean": {
+      "low": 80,
+      "high": 130,
+      "common": 120,
+      "unit": "kg"
+    },
+    "beetroot": {
+      "low": 8,
+      "high": 15,
+      "common": 10,
+      "unit": "unit"
+    },
+    "broccoli": {
+      "low": 30,
+      "high": 70,
+      "common": 50,
+      "unit": "unit"
+    },
+    "cabbage": {
+      "low": 20,
+      "high": 30,
+      "common": 25,
+      "unit": "unit"
+    },
+    "carrot": {
+      "low": 14,
+      "high": 20,
+      "common": 20,
+      "unit": "kg"
+    },
+    "cassava": {
+      "low": 30,
+      "high": 40,
+      "common": 30,
+      "unit": "kg"
+    },
+    "cauliflower": {
+      "low": 35,
+      "high": 75,
+      "common": 35,
+      "unit": "unit"
+    },
+    "celery": {
+      "low": 50,
+      "high": 100,
+      "common": 50,
+      "unit": "kg"
+    },
+    "coriander": {
+      "low": 70,
+      "high": 120,
+      "common": 80,
+      "unit": "kg"
+    },
+    "courgette": {
+      "low": 25,
+      "high": 35,
+      "common": 25,
+      "unit": "unit"
+    },
+    "cucumber": {
+      "low": 20,
+      "high": 40,
+      "common": 25,
+      "unit": "unit"
+    },
+    "garlic": {
+      "low": 160,
+      "high": 160,
+      "common": 160,
+      "unit": "kg"
+    },
+    "ginger": {
+      "low": 70,
+      "high": 100,
+      "common": 60,
+      "unit": "kg"
+    },
+    "gourd": {
+      "low": 30,
+      "high": 50,
+      "common": 40,
+      "unit": "kg"
+    },
+    "kohlrabi": {
+      "low": 8,
+      "high": 10,
+      "common": 10,
+      "unit": "unit"
+    },
+    "leek": {
+      "low": 15,
+      "high": 20,
+      "common": 15,
+      "unit": "unit"
+    },
+    "lettuce": {
+      "low": 15,
+      "high": 25,
+      "common": 20,
+      "unit": "unit"
+    },
+    "mint": {
+      "low": 150,
+      "high": 200,
+      "common": 200,
+      "unit": "kg"
+    },
+    "okra": {
+      "low": 450,
+      "high": 500,
+      "common": 450,
+      "unit": "kg"
+    },
+    "onion": {
+      "low": 40,
+      "high": 42,
+      "common": 42,
+      "unit": "kg"
+    },
+    "parsley": {
+      "low": 100,
+      "high": 200,
+      "common": 100,
+      "unit": "kg"
+    },
+    "pattypan": {
+      "low": 15,
+      "high": 50,
+      "common": 30,
+      "unit": "unit"
+    },
+    "peanut": {
+      "low": 230,
+      "high": 250,
+      "common": 240,
+      "unit": "kg"
+    },
+    "pepper-hot": {
+      "low": 400,
+      "high": 500,
+      "common": 400,
+      "unit": "kg"
+    },
+    "pepper-sweet": {
+      "low": 100,
+      "high": 120,
+      "common": 110,
+      "unit": "kg"
+    },
+    "petsai": {
+      "low": 20,
+      "high": 25,
+      "common": 20,
+      "unit": "unit"
+    },
+    "potato": {
+      "low": 40,
+      "high": 42,
+      "common": 42,
+      "unit": "kg"
+    },
+    "pumpkin": {
+      "low": 16,
+      "high": 20,
+      "common": 20,
+      "unit": "kg"
+    },
+    "radish": {
+      "low": 4,
+      "high": 5,
+      "common": 4,
+      "unit": "unit"
+    },
+    "shallot": {
+      "low": 80,
+      "high": 100,
+      "common": 80,
+      "unit": "kg"
+    },
+    "spinach": {
+      "low": 30,
+      "high": 50,
+      "common": 30,
+      "unit": "kg"
+    },
+    "squash": {
+      "low": 100,
+      "high": 100,
+      "common": 100,
+      "unit": "kg"
+    },
+    "sweet-potato": {
+      "low": 40,
+      "high": 60,
+      "common": 50,
+      "unit": "kg"
+    },
+    "sweetcorn": {
+      "low": 10,
+      "high": 15,
+      "common": 15,
+      "unit": "unit"
+    },
+    "thyme": {
+      "low": 150,
+      "high": 200,
+      "common": 150,
+      "unit": "kg"
+    },
+    "tomato": {
+      "low": 60,
+      "high": 80,
+      "common": 70,
+      "unit": "kg"
+    },
+    "watercress": {
+      "low": 18,
+      "high": 20,
+      "common": 20,
+      "unit": "pkt"
+    },
+    "welsh-onion": {
+      "low": 200,
+      "high": 300,
+      "common": 250,
+      "unit": "kg"
+    }
+  }
+}
