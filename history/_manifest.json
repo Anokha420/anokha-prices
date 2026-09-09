@@ -238,5 +238,35 @@
     "last": "2026-09-08",
     "latest": 250,
     "unit": "kg"
+  },
+  "taro": {
+    "n": 450,
+    "last": "2026-09-08",
+    "latest": 170,
+    "unit": "kg"
+  },
+  "banana": {
+    "n": 487,
+    "last": "2026-09-08",
+    "latest": 3,
+    "unit": "unit"
+  },
+  "papaya": {
+    "n": 449,
+    "last": "2026-09-08",
+    "latest": 30,
+    "unit": "kg"
+  },
+  "melon": {
+    "n": 24,
+    "last": "2026-06-25",
+    "latest": 50,
+    "unit": "kg"
+  },
+  "watermelon": {
+    "n": 290,
+    "last": "2026-08-15",
+    "latest": 50,
+    "unit": "kg"
   }
 }

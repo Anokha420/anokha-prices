@@ -2,15 +2,21 @@
   "date": "8 Sep 2026",
   "source": "National Wholesale Market (AMB)",
   "source_url": "https://ambmauritius.mu/wp-content/uploads/2026/09/DAILY-NWM-STATISTICS-VEG-FRUITS-08.09.26.pdf",
-  "updated_count": 37,
-  "total_crops": 40,
-  "sentiment": "Acheter Vender Fruits et Légumes | Association planteur e marchand legume, fruit maurice | No photo description available.m.mePranavVers une stabilité des prix : les légumes retrouvent leur équilibre sur le marché Après une période d'instabi | No photo description available.m.mePranavBelle surprise pour ce planteur de Crève-Cœur. Kamalesh Ramjing, plus connu comme Bolma, a découvert une « pa",
+  "updated_count": 40,
+  "total_crops": 43,
+  "sentiment": "",
   "prices": {
     "aubergine": {
       "low": 50,
       "high": 80,
       "common": 60,
       "unit": "kg"
+    },
+    "banana": {
+      "low": 2,
+      "high": 5,
+      "common": 3,
+      "unit": "unit"
     },
     "basil": {
       "low": 200,
@@ -138,6 +144,12 @@
       "common": 42,
       "unit": "kg"
     },
+    "papaya": {
+      "low": 30,
+      "high": 40,
+      "common": 30,
+      "unit": "kg"
+    },
     "parsley": {
       "low": 100,
       "high": 200,
@@ -222,6 +234,12 @@
       "common": 15,
       "unit": "unit"
     },
+    "taro": {
+      "low": 170,
+      "high": 180,
+      "common": 170,
+      "unit": "kg"
+    },
     "thyme": {
       "low": 150,
       "high": 200,
@@ -246,6 +264,5 @@
       "common": 250,
       "unit": "kg"
     }
-  },
-  "sentiment_source": "Facebook Mauritian farming groups (raw chatter, unverified)"
+  }
 }
