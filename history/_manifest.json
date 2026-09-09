@@ -1,0 +1,242 @@
+{
+  "basil": {
+    "n": 10,
+    "last": "2026-09-05",
+    "latest": 150,
+    "unit": "kg"
+  },
+  "beetroot": {
+    "n": 423,
+    "last": "2026-09-08",
+    "latest": 10,
+    "unit": "unit"
+  },
+  "spinach": {
+    "n": 298,
+    "last": "2026-09-08",
+    "latest": 30,
+    "unit": "kg"
+  },
+  "aubergine": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 60,
+    "unit": "kg"
+  },
+  "broccoli": {
+    "n": 305,
+    "last": "2026-09-08",
+    "latest": 50,
+    "unit": "unit"
+  },
+  "squash": {
+    "n": 128,
+    "last": "2026-09-05",
+    "latest": 120,
+    "unit": "kg"
+  },
+  "gourd": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 40,
+    "unit": "kg"
+  },
+  "carrot": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 20,
+    "unit": "kg"
+  },
+  "celery": {
+    "n": 430,
+    "last": "2026-09-08",
+    "latest": 50,
+    "unit": "kg"
+  },
+  "cabbage": {
+    "n": 516,
+    "last": "2026-09-08",
+    "latest": 25,
+    "unit": "unit"
+  },
+  "cauliflower": {
+    "n": 458,
+    "last": "2026-09-08",
+    "latest": 35,
+    "unit": "unit"
+  },
+  "cucumber": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 25,
+    "unit": "unit"
+  },
+  "coriander": {
+    "n": 516,
+    "last": "2026-09-08",
+    "latest": 80,
+    "unit": "kg"
+  },
+  "courgette": {
+    "n": 495,
+    "last": "2026-09-08",
+    "latest": 25,
+    "unit": "unit"
+  },
+  "watercress": {
+    "n": 501,
+    "last": "2026-09-08",
+    "latest": 20,
+    "unit": "pkt"
+  },
+  "garlic": {
+    "n": 373,
+    "last": "2026-09-08",
+    "latest": 160,
+    "unit": "kg"
+  },
+  "ginger": {
+    "n": 516,
+    "last": "2026-09-08",
+    "latest": 60,
+    "unit": "kg"
+  },
+  "pumpkin": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 20,
+    "unit": "kg"
+  },
+  "bean": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 120,
+    "unit": "kg"
+  },
+  "mint": {
+    "n": 506,
+    "last": "2026-09-08",
+    "latest": 200,
+    "unit": "kg"
+  },
+  "lettuce": {
+    "n": 512,
+    "last": "2026-09-08",
+    "latest": 20,
+    "unit": "unit"
+  },
+  "okra": {
+    "n": 517,
+    "last": "2026-09-08",
+    "latest": 450,
+    "unit": "kg"
+  },
+  "sweetcorn": {
+    "n": 426,
+    "last": "2026-09-08",
+    "latest": 15,
+    "unit": "unit"
+  },
+  "cassava": {
+    "n": 451,
+    "last": "2026-09-08",
+    "latest": 30,
+    "unit": "kg"
+  },
+  "onion": {
+    "n": 387,
+    "last": "2026-09-08",
+    "latest": 42,
+    "unit": "kg"
+  },
+  "shallot": {
+    "n": 56,
+    "last": "2026-09-05",
+    "latest": 100,
+    "unit": "kg"
+  },
+  "sweet-potato": {
+    "n": 495,
+    "last": "2026-09-08",
+    "latest": 50,
+    "unit": "kg"
+  },
+  "pattypan": {
+    "n": 497,
+    "last": "2026-09-08",
+    "latest": 30,
+    "unit": "unit"
+  },
+  "parsley": {
+    "n": 512,
+    "last": "2026-09-08",
+    "latest": 100,
+    "unit": "kg"
+  },
+  "petsai": {
+    "n": 505,
+    "last": "2026-09-08",
+    "latest": 20,
+    "unit": "unit"
+  },
+  "pepper-hot": {
+    "n": 486,
+    "last": "2026-09-08",
+    "latest": 400,
+    "unit": "kg"
+  },
+  "peanut": {
+    "n": 449,
+    "last": "2026-09-08",
+    "latest": 240,
+    "unit": "kg"
+  },
+  "leek": {
+    "n": 429,
+    "last": "2026-09-08",
+    "latest": 15,
+    "unit": "unit"
+  },
+  "pepper-sweet": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 110,
+    "unit": "kg"
+  },
+  "tomato": {
+    "n": 518,
+    "last": "2026-09-08",
+    "latest": 70,
+    "unit": "kg"
+  },
+  "potato": {
+    "n": 446,
+    "last": "2026-09-08",
+    "latest": 42,
+    "unit": "kg"
+  },
+  "radish": {
+    "n": 282,
+    "last": "2026-09-08",
+    "latest": 4,
+    "unit": "unit"
+  },
+  "kohlrabi": {
+    "n": 493,
+    "last": "2026-09-08",
+    "latest": 10,
+    "unit": "unit"
+  },
+  "thyme": {
+    "n": 515,
+    "last": "2026-09-08",
+    "latest": 150,
+    "unit": "kg"
+  },
+  "welsh-onion": {
+    "n": 516,
+    "last": "2026-09-08",
+    "latest": 250,
+    "unit": "kg"
+  }
+}
