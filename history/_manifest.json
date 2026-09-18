@@ -6,27 +6,27 @@
     "unit": "kg"
   },
   "beetroot": {
-    "n": 426,
-    "last": "2026-09-14",
-    "latest": 10,
+    "n": 427,
+    "last": "2026-09-17",
+    "latest": 20,
     "unit": "unit"
   },
   "spinach": {
-    "n": 300,
-    "last": "2026-09-14",
-    "latest": 30,
+    "n": 301,
+    "last": "2026-09-17",
+    "latest": 40,
     "unit": "kg"
   },
   "aubergine": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 70,
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 60,
     "unit": "kg"
   },
   "broccoli": {
-    "n": 308,
-    "last": "2026-09-14",
-    "latest": 50,
+    "n": 309,
+    "last": "2026-09-17",
+    "latest": 25,
     "unit": "unit"
   },
   "squash": {
@@ -36,117 +36,117 @@
     "unit": "kg"
   },
   "gourd": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 40,
-    "unit": "kg"
-  },
-  "carrot": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 20,
-    "unit": "kg"
-  },
-  "celery": {
-    "n": 433,
-    "last": "2026-09-14",
+    "n": 522,
+    "last": "2026-09-17",
     "latest": 50,
     "unit": "kg"
   },
+  "carrot": {
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 16,
+    "unit": "kg"
+  },
+  "celery": {
+    "n": 434,
+    "last": "2026-09-17",
+    "latest": 100,
+    "unit": "kg"
+  },
   "cabbage": {
-    "n": 519,
-    "last": "2026-09-14",
+    "n": 520,
+    "last": "2026-09-17",
     "latest": 20,
     "unit": "unit"
   },
   "cauliflower": {
-    "n": 461,
-    "last": "2026-09-14",
-    "latest": 35,
+    "n": 462,
+    "last": "2026-09-17",
+    "latest": 50,
     "unit": "unit"
   },
   "cucumber": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 35,
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 50,
     "unit": "unit"
   },
   "coriander": {
-    "n": 519,
-    "last": "2026-09-14",
+    "n": 520,
+    "last": "2026-09-17",
     "latest": 100,
     "unit": "kg"
   },
   "courgette": {
-    "n": 498,
-    "last": "2026-09-14",
+    "n": 499,
+    "last": "2026-09-17",
     "latest": 25,
     "unit": "unit"
   },
   "watercress": {
-    "n": 504,
-    "last": "2026-09-14",
-    "latest": 20,
+    "n": 505,
+    "last": "2026-09-17",
+    "latest": 15,
     "unit": "pkt"
   },
   "garlic": {
-    "n": 376,
-    "last": "2026-09-14",
+    "n": 377,
+    "last": "2026-09-17",
     "latest": 160,
     "unit": "kg"
   },
   "ginger": {
-    "n": 519,
-    "last": "2026-09-14",
-    "latest": 70,
+    "n": 520,
+    "last": "2026-09-17",
+    "latest": 90,
     "unit": "kg"
   },
   "pumpkin": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 24,
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 20,
     "unit": "kg"
   },
   "bean": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 120,
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 200,
     "unit": "kg"
   },
   "mint": {
-    "n": 509,
-    "last": "2026-09-14",
-    "latest": 80,
+    "n": 510,
+    "last": "2026-09-17",
+    "latest": 200,
     "unit": "kg"
   },
   "lettuce": {
-    "n": 515,
-    "last": "2026-09-14",
-    "latest": 20,
+    "n": 516,
+    "last": "2026-09-17",
+    "latest": 25,
     "unit": "unit"
   },
   "okra": {
-    "n": 520,
-    "last": "2026-09-14",
-    "latest": 450,
+    "n": 521,
+    "last": "2026-09-17",
+    "latest": 500,
     "unit": "kg"
   },
   "sweetcorn": {
-    "n": 429,
-    "last": "2026-09-14",
+    "n": 430,
+    "last": "2026-09-17",
     "latest": 15,
     "unit": "unit"
   },
   "cassava": {
-    "n": 454,
-    "last": "2026-09-14",
-    "latest": 30,
+    "n": 455,
+    "last": "2026-09-17",
+    "latest": 40,
     "unit": "kg"
   },
   "onion": {
-    "n": 390,
-    "last": "2026-09-14",
-    "latest": 44,
+    "n": 391,
+    "last": "2026-09-17",
+    "latest": 40,
     "unit": "kg"
   },
   "shallot": {
@@ -156,33 +156,33 @@
     "unit": "kg"
   },
   "sweet-potato": {
-    "n": 498,
-    "last": "2026-09-14",
-    "latest": 50,
+    "n": 499,
+    "last": "2026-09-17",
+    "latest": 40,
     "unit": "kg"
   },
   "pattypan": {
-    "n": 500,
-    "last": "2026-09-14",
-    "latest": 30,
+    "n": 501,
+    "last": "2026-09-17",
+    "latest": 15,
     "unit": "unit"
   },
   "parsley": {
-    "n": 515,
-    "last": "2026-09-14",
-    "latest": 150,
+    "n": 516,
+    "last": "2026-09-17",
+    "latest": 120,
     "unit": "kg"
   },
   "petsai": {
-    "n": 508,
-    "last": "2026-09-14",
-    "latest": 20,
+    "n": 509,
+    "last": "2026-09-17",
+    "latest": 25,
     "unit": "unit"
   },
   "pepper-hot": {
-    "n": 489,
-    "last": "2026-09-14",
-    "latest": 400,
+    "n": 490,
+    "last": "2026-09-17",
+    "latest": 450,
     "unit": "kg"
   },
   "peanut": {
@@ -192,26 +192,26 @@
     "unit": "kg"
   },
   "leek": {
-    "n": 432,
-    "last": "2026-09-14",
+    "n": 433,
+    "last": "2026-09-17",
     "latest": 20,
     "unit": "unit"
   },
   "pepper-sweet": {
-    "n": 521,
-    "last": "2026-09-14",
-    "latest": 130,
+    "n": 522,
+    "last": "2026-09-17",
+    "latest": 120,
     "unit": "kg"
   },
   "tomato": {
-    "n": 521,
-    "last": "2026-09-14",
+    "n": 522,
+    "last": "2026-09-17",
     "latest": 60,
     "unit": "kg"
   },
   "potato": {
-    "n": 449,
-    "last": "2026-09-14",
+    "n": 450,
+    "last": "2026-09-17",
     "latest": 42,
     "unit": "kg"
   },
@@ -222,20 +222,20 @@
     "unit": "unit"
   },
   "kohlrabi": {
-    "n": 496,
-    "last": "2026-09-14",
-    "latest": 7,
+    "n": 497,
+    "last": "2026-09-17",
+    "latest": 5,
     "unit": "unit"
   },
   "thyme": {
-    "n": 518,
-    "last": "2026-09-14",
-    "latest": 160,
+    "n": 519,
+    "last": "2026-09-17",
+    "latest": 100,
     "unit": "kg"
   },
   "welsh-onion": {
-    "n": 519,
-    "last": "2026-09-14",
+    "n": 520,
+    "last": "2026-09-17",
     "latest": 200,
     "unit": "kg"
   },
@@ -246,8 +246,8 @@
     "unit": "kg"
   },
   "banana": {
-    "n": 490,
-    "last": "2026-09-14",
+    "n": 491,
+    "last": "2026-09-17",
     "latest": 4,
     "unit": "unit"
   },
