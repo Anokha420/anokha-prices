@@ -1,0 +1,710 @@
+{
+ "crops": {
+  "onion": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 2,
+   "err28": 5,
+   "err56": 10,
+   "flatErr28": 5,
+   "cover": 92,
+   "tested": 73,
+   "unpredictable": false
+  },
+  "aubergine": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 29,
+   "err28": 46,
+   "err56": 50,
+   "flatErr28": 66,
+   "cover": 73,
+   "tested": 78,
+   "unpredictable": true
+  },
+  "sweetcorn": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 6,
+   "err28": 12,
+   "err56": 14,
+   "flatErr28": 12,
+   "cover": 93,
+   "tested": 75,
+   "unpredictable": false
+  },
+  "spinach": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 11,
+   "err28": 21,
+   "err56": 26,
+   "flatErr28": 21,
+   "cover": 85,
+   "tested": 51,
+   "unpredictable": false
+  },
+  "watercress": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 6,
+   "err28": 14,
+   "err56": 18,
+   "flatErr28": 14,
+   "cover": 83,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "shallot": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": null,
+   "err28": null,
+   "err56": null,
+   "flatErr28": null,
+   "cover": 67,
+   "tested": 0,
+   "unpredictable": true
+  },
+  "banana": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 7,
+   "err28": 11,
+   "err56": 16,
+   "flatErr28": 11,
+   "cover": 82,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "welsh-onion": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 12,
+   "err28": 20,
+   "err56": 28,
+   "flatErr28": 20,
+   "cover": 90,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "courgette": {
+   "method": "model",
+   "modelFrom": 42,
+   "err7": 25,
+   "err28": 47,
+   "err56": 63,
+   "flatErr28": 47,
+   "cover": 75,
+   "tested": 77,
+   "unpredictable": true
+  },
+  "bean": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 24,
+   "err28": 28,
+   "err56": 36,
+   "flatErr28": 35,
+   "cover": 79,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "thyme": {
+   "method": "model",
+   "modelFrom": 21,
+   "err7": 22,
+   "err28": 29,
+   "err56": 35,
+   "flatErr28": 39,
+   "cover": 81,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "petsai": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 16,
+   "err28": 22,
+   "err56": 26,
+   "flatErr28": 22,
+   "cover": 89,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "leek": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 20,
+   "err28": 23,
+   "err56": 29,
+   "flatErr28": 29,
+   "cover": 75,
+   "tested": 74,
+   "unpredictable": false
+  },
+  "pumpkin": {
+   "method": "model",
+   "modelFrom": 42,
+   "err7": 16,
+   "err28": 26,
+   "err56": 31,
+   "flatErr28": 26,
+   "cover": 77,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "squash": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 17,
+   "err28": 30,
+   "err56": 78,
+   "flatErr28": 34,
+   "cover": 74,
+   "tested": 13,
+   "unpredictable": false
+  },
+  "radish": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 13,
+   "err28": 35,
+   "err56": 40,
+   "flatErr28": 35,
+   "cover": 69,
+   "tested": 58,
+   "unpredictable": false
+  },
+  "cauliflower": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 27,
+   "err28": 31,
+   "err56": 39,
+   "flatErr28": 40,
+   "cover": 76,
+   "tested": 73,
+   "unpredictable": false
+  },
+  "pepper-sweet": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 25,
+   "err28": 34,
+   "err56": 36,
+   "flatErr28": 48,
+   "cover": 81,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "peanut": {
+   "method": "model",
+   "modelFrom": 21,
+   "err7": 11,
+   "err28": 15,
+   "err56": 18,
+   "flatErr28": 14,
+   "cover": 79,
+   "tested": 75,
+   "unpredictable": false
+  },
+  "watermelon": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 27,
+   "err28": 37,
+   "err56": 41,
+   "flatErr28": 46,
+   "cover": 74,
+   "tested": 47,
+   "unpredictable": false
+  },
+  "parsley": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 27,
+   "err28": 41,
+   "err56": 42,
+   "flatErr28": 49,
+   "cover": 80,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "taro": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 14,
+   "err28": 22,
+   "err56": 21,
+   "flatErr28": 21,
+   "cover": 82,
+   "tested": 75,
+   "unpredictable": false
+  },
+  "okra": {
+   "method": "model",
+   "modelFrom": 28,
+   "err7": 27,
+   "err28": 45,
+   "err56": 60,
+   "flatErr28": 51,
+   "cover": 72,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "lettuce": {
+   "method": "model",
+   "modelFrom": 42,
+   "err7": 15,
+   "err28": 26,
+   "err56": 34,
+   "flatErr28": 26,
+   "cover": 84,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "cabbage": {
+   "method": "model",
+   "modelFrom": 42,
+   "err7": 23,
+   "err28": 40,
+   "err56": 52,
+   "flatErr28": 40,
+   "cover": 79,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "gourd": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 21,
+   "err28": 27,
+   "err56": 31,
+   "flatErr28": 27,
+   "cover": 84,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "mint": {
+   "method": "model",
+   "modelFrom": 21,
+   "err7": 21,
+   "err28": 32,
+   "err56": 39,
+   "flatErr28": 34,
+   "cover": 84,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "potato": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 9,
+   "err28": 15,
+   "err56": 25,
+   "flatErr28": 15,
+   "cover": 86,
+   "tested": 76,
+   "unpredictable": false
+  },
+  "broccoli": {
+   "method": "model",
+   "modelFrom": 42,
+   "err7": 21,
+   "err28": 30,
+   "err56": 35,
+   "flatErr28": 30,
+   "cover": 75,
+   "tested": 55,
+   "unpredictable": false
+  },
+  "papaya": {
+   "method": "model",
+   "modelFrom": 28,
+   "err7": 16,
+   "err28": 25,
+   "err56": 33,
+   "flatErr28": 28,
+   "cover": 74,
+   "tested": 73,
+   "unpredictable": false
+  },
+  "sweet-potato": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 21,
+   "err28": 29,
+   "err56": 30,
+   "flatErr28": 29,
+   "cover": 74,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "pattypan": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 26,
+   "err28": 32,
+   "err56": 37,
+   "flatErr28": 37,
+   "cover": 79,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "beetroot": {
+   "method": "model",
+   "modelFrom": 28,
+   "err7": 14,
+   "err28": 21,
+   "err56": 27,
+   "flatErr28": 24,
+   "cover": 80,
+   "tested": 74,
+   "unpredictable": false
+  },
+  "pepper-hot": {
+   "method": "model",
+   "modelFrom": 28,
+   "err7": 15,
+   "err28": 28,
+   "err56": 37,
+   "flatErr28": 32,
+   "cover": 84,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "ginger": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 14,
+   "err28": 21,
+   "err56": 24,
+   "flatErr28": 21,
+   "cover": 83,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "cucumber": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 22,
+   "err28": 31,
+   "err56": 33,
+   "flatErr28": 35,
+   "cover": 74,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "cassava": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 10,
+   "err28": 12,
+   "err56": 15,
+   "flatErr28": 12,
+   "cover": 86,
+   "tested": 72,
+   "unpredictable": false
+  },
+  "celery": {
+   "method": "model",
+   "modelFrom": 21,
+   "err7": 24,
+   "err28": 40,
+   "err56": 49,
+   "flatErr28": 38,
+   "cover": 81,
+   "tested": 74,
+   "unpredictable": false
+  },
+  "carrot": {
+   "method": "model",
+   "modelFrom": 21,
+   "err7": 26,
+   "err28": 33,
+   "err56": 41,
+   "flatErr28": 30,
+   "cover": 74,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "tomato": {
+   "method": "model",
+   "modelFrom": 14,
+   "err7": 27,
+   "err28": 42,
+   "err56": 53,
+   "flatErr28": 43,
+   "cover": 76,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "kohlrabi": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 16,
+   "err28": 21,
+   "err56": 27,
+   "flatErr28": 21,
+   "cover": 78,
+   "tested": 78,
+   "unpredictable": false
+  },
+  "coriander": {
+   "method": "model",
+   "modelFrom": 7,
+   "err7": 38,
+   "err28": 53,
+   "err56": 57,
+   "flatErr28": 67,
+   "cover": 78,
+   "tested": 78,
+   "unpredictable": true
+  },
+  "garlic": {
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 0,
+   "err28": 0,
+   "err56": 0,
+   "flatErr28": 0,
+   "cover": 100,
+   "tested": 68,
+   "unpredictable": false
+  }
+ },
+ "overall": {
+  "7": {
+   "meanErr": 18.3,
+   "flatMeanErr": 18.6,
+   "n": 3130
+  },
+  "14": {
+   "meanErr": 22.1,
+   "flatMeanErr": 23.1,
+   "n": 3084
+  },
+  "21": {
+   "meanErr": 25.1,
+   "flatMeanErr": 26.8,
+   "n": 3043
+  },
+  "28": {
+   "meanErr": 27.3,
+   "flatMeanErr": 30.3,
+   "n": 3055
+  },
+  "42": {
+   "meanErr": 30.5,
+   "flatMeanErr": 35.7,
+   "n": 2925
+  },
+  "56": {
+   "meanErr": 33.5,
+   "flatMeanErr": 39.9,
+   "n": 2841
+  }
+ },
+ "coefficients": {
+  "low/7": {
+   "bias": -0.046,
+   "revert": -0.078,
+   "momentum": -0.25,
+   "season": 0.187,
+   "seasonGap": 0.142,
+   "volume": -0.043,
+   "rain21": 0.01,
+   "rain7": 0.018,
+   "festival": -0.013
+  },
+  "low/14": {
+   "bias": -0.053,
+   "revert": -0.129,
+   "momentum": -0.201,
+   "season": 0.075,
+   "seasonGap": 0.158,
+   "volume": -0.052,
+   "rain21": 0.029,
+   "rain7": 0.01,
+   "festival": -0.016
+  },
+  "low/21": {
+   "bias": -0.068,
+   "revert": -0.149,
+   "momentum": -0.209,
+   "season": -0.01,
+   "seasonGap": 0.222,
+   "volume": -0.06,
+   "rain21": 0.013,
+   "rain7": 0.026,
+   "festival": -0.026
+  },
+  "low/28": {
+   "bias": -0.078,
+   "revert": -0.165,
+   "momentum": -0.175,
+   "season": 0.229,
+   "seasonGap": 0.268,
+   "volume": -0.046,
+   "rain21": 0.024,
+   "rain7": 0.03,
+   "festival": -0.013
+  },
+  "low/42": {
+   "bias": -0.08,
+   "revert": -0.184,
+   "momentum": -0.216,
+   "season": 0.074,
+   "seasonGap": 0.34,
+   "volume": -0.05,
+   "rain21": 0.035,
+   "rain7": 0.013,
+   "festival": -0.001
+  },
+  "low/56": {
+   "bias": -0.102,
+   "revert": -0.217,
+   "momentum": -0.149,
+   "season": -0.021,
+   "seasonGap": 0.374,
+   "volume": -0.055,
+   "rain21": 0.033,
+   "rain7": 0.027,
+   "festival": -0.006
+  },
+  "mid/7": {
+   "bias": -0.073,
+   "revert": -0.115,
+   "momentum": -0.116,
+   "season": 0.176,
+   "seasonGap": 0.173,
+   "volume": -0.061,
+   "rain21": -0.003,
+   "rain7": 0.023,
+   "festival": 0.006
+  },
+  "mid/14": {
+   "bias": -0.084,
+   "revert": -0.138,
+   "momentum": -0.088,
+   "season": 0.215,
+   "seasonGap": 0.251,
+   "volume": -0.05,
+   "rain21": -0.005,
+   "rain7": 0.017,
+   "festival": -0.027
+  },
+  "mid/21": {
+   "bias": -0.093,
+   "revert": -0.176,
+   "momentum": -0.085,
+   "season": 0.227,
+   "seasonGap": 0.319,
+   "volume": -0.1,
+   "rain21": 0.016,
+   "rain7": -0.008,
+   "festival": -0.019
+  },
+  "mid/28": {
+   "bias": -0.119,
+   "revert": -0.192,
+   "momentum": -0.074,
+   "season": 0.264,
+   "seasonGap": 0.366,
+   "volume": -0.114,
+   "rain21": 0.038,
+   "rain7": 0.002,
+   "festival": -0.029
+  },
+  "mid/42": {
+   "bias": -0.154,
+   "revert": -0.253,
+   "momentum": -0.028,
+   "season": 0.246,
+   "seasonGap": 0.462,
+   "volume": -0.146,
+   "rain21": 0.028,
+   "rain7": 0.002,
+   "festival": 0.002
+  },
+  "mid/56": {
+   "bias": -0.186,
+   "revert": -0.28,
+   "momentum": -0.031,
+   "season": 0.186,
+   "seasonGap": 0.518,
+   "volume": -0.151,
+   "rain21": -0.009,
+   "rain7": 0.027,
+   "festival": 0.019
+  },
+  "high/7": {
+   "bias": -0.05,
+   "revert": -0.107,
+   "momentum": -0.117,
+   "season": 0.157,
+   "seasonGap": 0.207,
+   "volume": -0.093,
+   "rain21": 0.03,
+   "rain7": -0.003,
+   "festival": -0.008
+  },
+  "high/14": {
+   "bias": -0.086,
+   "revert": -0.152,
+   "momentum": -0.073,
+   "season": -0.043,
+   "seasonGap": 0.303,
+   "volume": -0.103,
+   "rain21": 0.051,
+   "rain7": 0.013,
+   "festival": -0.025
+  },
+  "high/21": {
+   "bias": -0.083,
+   "revert": -0.174,
+   "momentum": -0.049,
+   "season": 0.008,
+   "seasonGap": 0.352,
+   "volume": -0.142,
+   "rain21": 0.087,
+   "rain7": -0.023,
+   "festival": -0.026
+  },
+  "high/28": {
+   "bias": -0.127,
+   "revert": -0.21,
+   "momentum": -0.028,
+   "season": 0.048,
+   "seasonGap": 0.423,
+   "volume": -0.159,
+   "rain21": 0.083,
+   "rain7": 0.032,
+   "festival": -0.028
+  },
+  "high/42": {
+   "bias": -0.137,
+   "revert": -0.26,
+   "momentum": 0.002,
+   "season": 0.165,
+   "seasonGap": 0.479,
+   "volume": -0.197,
+   "rain21": 0.096,
+   "rain7": 0.031,
+   "festival": -0.01
+  },
+  "high/56": {
+   "bias": -0.152,
+   "revert": -0.276,
+   "momentum": -0.073,
+   "season": 0.19,
+   "seasonGap": 0.506,
+   "volume": -0.195,
+   "rain21": 0.066,
+   "rain7": 0.052,
+   "festival": 0.005
+  }
+ },
+ "generated": "2026-10-10"
+}

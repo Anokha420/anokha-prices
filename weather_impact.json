@@ -1,0 +1,41 @@
+{
+ "generated": "2026-10-10",
+ "tiers": {
+  "low": {
+   "watch": [
+    3,
+    7
+   ],
+   "watchN": 376,
+   "alert": [
+    -2,
+    14
+   ],
+   "alertN": 23
+  },
+  "medium": {
+   "watch": [
+    6,
+    9
+   ],
+   "watchN": 512,
+   "alert": [
+    -11,
+    0
+   ],
+   "alertN": 45
+  },
+  "high": {
+   "watch": [
+    -1,
+    3
+   ],
+   "watchN": 402,
+   "alert": [
+    -9,
+    9
+   ],
+   "alertN": 25
+  }
+ }
+}
