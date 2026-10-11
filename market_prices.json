@@ -4,7 +4,7 @@
   "source_url": "https://ambmauritius.mu/wp-content/uploads/2026/10/DAILY-NWM-STATISTICS-VEG-FRUITS-09.10.26.pdf",
   "updated_count": 40,
   "total_crops": 44,
-  "sentiment": "Association planteur e marchand legume, fruit maurice | Maison /Terrain a vendre a petit prix (maurice)",
+  "sentiment": "",
   "prices": {
     "aubergine": {
       "low": 40,
@@ -314,6 +314,5 @@
       "unit": "kg",
       "qty": 367
     }
-  },
-  "sentiment_source": "Facebook Mauritian farming groups (raw chatter, unverified)"
+  }
 }
