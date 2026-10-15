@@ -577,7 +577,7 @@
    "bias": -0.072,
    "revert": -0.119,
    "momentum": -0.126,
-   "season": 0.017,
+   "season": 0.018,
    "seasonGap": 0.183,
    "volume": -0.064,
    "rain21": -0.025,
@@ -706,5 +706,5 @@
    "festival": 0.002
   }
  },
- "generated": "2026-10-14"
+ "generated": "2026-10-15"
 }
