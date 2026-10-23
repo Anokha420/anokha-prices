@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22",
+ "generated": "2026-10-23",
  "tiers": {
   "low": {
    "watch": [
@@ -28,7 +28,7 @@
   "high": {
    "watch": [
     2,
-    6
+    5
    ],
    "watchN": 529,
    "alert": null
