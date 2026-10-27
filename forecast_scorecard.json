@@ -4,55 +4,55 @@
    "method": "flat",
    "modelFrom": null,
    "err7": 5,
-   "err28": 6,
+   "err28": 5,
    "err56": 12,
-   "flatErr28": 6,
-   "cover": 86,
-   "tested": 86,
+   "flatErr28": 5,
+   "cover": 87,
+   "tested": 87,
    "unpredictable": false
   },
   "aubergine": {
    "method": "model",
    "modelFrom": 14,
-   "err7": 28,
+   "err7": 27,
    "err28": 41,
    "err56": 47,
    "flatErr28": 60,
    "cover": 72,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "sweetcorn": {
    "method": "flat",
    "modelFrom": null,
    "err7": 7,
-   "err28": 12,
+   "err28": 13,
    "err56": 14,
-   "flatErr28": 12,
+   "flatErr28": 13,
    "cover": 96,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "spinach": {
    "method": "flat",
    "modelFrom": null,
    "err7": 13,
-   "err28": 21,
-   "err56": 25,
-   "flatErr28": 21,
+   "err28": 22,
+   "err56": 28,
+   "flatErr28": 22,
    "cover": 90,
-   "tested": 54,
+   "tested": 55,
    "unpredictable": false
   },
   "watercress": {
    "method": "flat",
    "modelFrom": null,
    "err7": 7,
-   "err28": 15,
+   "err28": 14,
    "err56": 21,
-   "flatErr28": 15,
+   "flatErr28": 14,
    "cover": 87,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "shallot": {
@@ -62,19 +62,19 @@
    "err28": null,
    "err56": null,
    "flatErr28": null,
-   "cover": 82,
-   "tested": 5,
+   "cover": 84,
+   "tested": 6,
    "unpredictable": true
   },
   "banana": {
    "method": "flat",
    "modelFrom": null,
    "err7": 7,
-   "err28": 13,
-   "err56": 17,
-   "flatErr28": 13,
-   "cover": 84,
-   "tested": 86,
+   "err28": 14,
+   "err56": 18,
+   "flatErr28": 14,
+   "cover": 83,
+   "tested": 87,
    "unpredictable": false
   },
   "welsh-onion": {
@@ -82,10 +82,10 @@
    "modelFrom": 56,
    "err7": 14,
    "err28": 19,
-   "err56": 28,
+   "err56": 29,
    "flatErr28": 19,
    "cover": 87,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "courgette": {
@@ -96,18 +96,18 @@
    "err56": 64,
    "flatErr28": 50,
    "cover": 76,
-   "tested": 85,
+   "tested": 86,
    "unpredictable": true
   },
   "bean": {
    "method": "model",
    "modelFrom": 7,
-   "err7": 25,
+   "err7": 24,
    "err28": 30,
    "err56": 39,
    "flatErr28": 35,
-   "cover": 78,
-   "tested": 86,
+   "cover": 79,
+   "tested": 87,
    "unpredictable": false
   },
   "thyme": {
@@ -118,18 +118,18 @@
    "err56": 37,
    "flatErr28": 41,
    "cover": 83,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "petsai": {
    "method": "model",
-   "modelFrom": 42,
-   "err7": 14,
-   "err28": 21,
-   "err56": 27,
-   "flatErr28": 21,
+   "modelFrom": 28,
+   "err7": 15,
+   "err28": 22,
+   "err56": 26,
+   "flatErr28": 22,
    "cover": 84,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "leek": {
@@ -140,18 +140,18 @@
    "err56": 32,
    "flatErr28": 28,
    "cover": 80,
-   "tested": 84,
+   "tested": 85,
    "unpredictable": false
   },
   "pumpkin": {
    "method": "model",
    "modelFrom": 42,
    "err7": 17,
-   "err28": 27,
+   "err28": 28,
    "err56": 29,
-   "flatErr28": 27,
+   "flatErr28": 28,
    "cover": 78,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "squash": {
@@ -181,21 +181,21 @@
    "modelFrom": 7,
    "err7": 27,
    "err28": 30,
-   "err56": 35,
+   "err56": 36,
    "flatErr28": 41,
    "cover": 78,
-   "tested": 82,
+   "tested": 83,
    "unpredictable": false
   },
   "pepper-sweet": {
    "method": "model",
    "modelFrom": 7,
    "err7": 23,
-   "err28": 32,
+   "err28": 31,
    "err56": 33,
    "flatErr28": 43,
-   "cover": 79,
-   "tested": 86,
+   "cover": 80,
+   "tested": 87,
    "unpredictable": false
   },
   "peanut": {
@@ -205,8 +205,8 @@
    "err28": 13,
    "err56": 15,
    "flatErr28": 14,
-   "cover": 75,
-   "tested": 85,
+   "cover": 76,
+   "tested": 86,
    "unpredictable": false
   },
   "watermelon": {
@@ -225,10 +225,10 @@
    "modelFrom": 7,
    "err7": 28,
    "err28": 40,
-   "err56": 44,
-   "flatErr28": 50,
+   "err56": 43,
+   "flatErr28": 49,
    "cover": 80,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "taro": {
@@ -239,7 +239,7 @@
    "err56": 21,
    "flatErr28": 20,
    "cover": 75,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "okra": {
@@ -248,9 +248,9 @@
    "err7": 27,
    "err28": 39,
    "err56": 53,
-   "flatErr28": 49,
-   "cover": 76,
-   "tested": 86,
+   "flatErr28": 48,
+   "cover": 77,
+   "tested": 87,
    "unpredictable": false
   },
   "lettuce": {
@@ -261,7 +261,7 @@
    "err56": 45,
    "flatErr28": 36,
    "cover": 83,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "cabbage": {
@@ -269,21 +269,21 @@
    "modelFrom": 42,
    "err7": 23,
    "err28": 39,
-   "err56": 44,
+   "err56": 45,
    "flatErr28": 39,
-   "cover": 79,
-   "tested": 86,
+   "cover": 78,
+   "tested": 87,
    "unpredictable": false
   },
   "gourd": {
    "method": "model",
    "modelFrom": 28,
    "err7": 23,
-   "err28": 29,
+   "err28": 30,
    "err56": 32,
-   "flatErr28": 30,
+   "flatErr28": 31,
    "cover": 83,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "mint": {
@@ -293,8 +293,8 @@
    "err28": 28,
    "err56": 30,
    "flatErr28": 35,
-   "cover": 85,
-   "tested": 86,
+   "cover": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "potato": {
@@ -305,18 +305,18 @@
    "err56": 23,
    "flatErr28": 14,
    "cover": 84,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "broccoli": {
-   "method": "model",
-   "modelFrom": 56,
-   "err7": 22,
-   "err28": 30,
-   "err56": 34,
-   "flatErr28": 30,
-   "cover": 76,
-   "tested": 60,
+   "method": "flat",
+   "modelFrom": null,
+   "err7": 24,
+   "err28": 33,
+   "err56": 37,
+   "flatErr28": 33,
+   "cover": 75,
+   "tested": 61,
    "unpredictable": false
   },
   "papaya": {
@@ -338,18 +338,18 @@
    "err56": 29,
    "flatErr28": 27,
    "cover": 73,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "pattypan": {
    "method": "model",
    "modelFrom": 7,
    "err7": 26,
-   "err28": 31,
+   "err28": 30,
    "err56": 36,
    "flatErr28": 33,
    "cover": 80,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "beetroot": {
@@ -357,21 +357,21 @@
    "modelFrom": 21,
    "err7": 15,
    "err28": 22,
-   "err56": 30,
-   "flatErr28": 26,
-   "cover": 80,
-   "tested": 79,
+   "err56": 29,
+   "flatErr28": 25,
+   "cover": 81,
+   "tested": 80,
    "unpredictable": false
   },
   "pepper-hot": {
    "method": "model",
    "modelFrom": 21,
    "err7": 16,
-   "err28": 29,
+   "err28": 28,
    "err56": 31,
    "flatErr28": 31,
    "cover": 85,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "ginger": {
@@ -382,29 +382,29 @@
    "err56": 24,
    "flatErr28": 21,
    "cover": 85,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "cucumber": {
    "method": "model",
-   "modelFrom": 14,
+   "modelFrom": 21,
    "err7": 25,
-   "err28": 31,
-   "err56": 36,
+   "err28": 32,
+   "err56": 37,
    "flatErr28": 35,
-   "cover": 71,
-   "tested": 86,
+   "cover": 72,
+   "tested": 87,
    "unpredictable": false
   },
   "cassava": {
    "method": "flat",
    "modelFrom": null,
-   "err7": 9,
+   "err7": 10,
    "err28": 12,
    "err56": 16,
    "flatErr28": 12,
    "cover": 87,
-   "tested": 84,
+   "tested": 85,
    "unpredictable": false
   },
   "celery": {
@@ -414,30 +414,30 @@
    "err28": 37,
    "err56": 49,
    "flatErr28": 39,
-   "cover": 82,
-   "tested": 83,
+   "cover": 83,
+   "tested": 84,
    "unpredictable": false
   },
   "carrot": {
    "method": "model",
    "modelFrom": 7,
    "err7": 28,
-   "err28": 37,
+   "err28": 38,
    "err56": 50,
-   "flatErr28": 33,
+   "flatErr28": 34,
    "cover": 74,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "tomato": {
    "method": "model",
-   "modelFrom": 14,
+   "modelFrom": 7,
    "err7": 26,
    "err28": 41,
-   "err56": 49,
+   "err56": 48,
    "flatErr28": 43,
-   "cover": 78,
-   "tested": 86,
+   "cover": 79,
+   "tested": 87,
    "unpredictable": false
   },
   "kohlrabi": {
@@ -448,18 +448,18 @@
    "err56": 26,
    "flatErr28": 21,
    "cover": 80,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   },
   "coriander": {
    "method": "model",
    "modelFrom": 7,
-   "err7": 39,
+   "err7": 38,
    "err28": 53,
-   "err56": 59,
-   "flatErr28": 67,
+   "err56": 58,
+   "flatErr28": 66,
    "cover": 75,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": true
   },
   "garlic": {
@@ -470,241 +470,241 @@
    "err56": 0,
    "flatErr28": 0,
    "cover": 100,
-   "tested": 86,
+   "tested": 87,
    "unpredictable": false
   }
  },
  "overall": {
   "7": {
-   "meanErr": 19.1,
+   "meanErr": 19.2,
    "flatMeanErr": 19.5,
-   "n": 3559
+   "n": 3598
   },
   "14": {
-   "meanErr": 22.6,
+   "meanErr": 22.7,
    "flatMeanErr": 23.7,
-   "n": 3513
+   "n": 3553
   },
   "21": {
    "meanErr": 25.5,
    "flatMeanErr": 27.4,
-   "n": 3462
+   "n": 3501
   },
   "28": {
-   "meanErr": 27.5,
+   "meanErr": 27.6,
    "flatMeanErr": 30.6,
-   "n": 3424
+   "n": 3463
   },
   "42": {
-   "meanErr": 30.4,
-   "flatMeanErr": 35.8,
-   "n": 3336
+   "meanErr": 30.3,
+   "flatMeanErr": 35.7,
+   "n": 3372
   },
   "56": {
-   "meanErr": 33.0,
-   "flatMeanErr": 40.1,
-   "n": 3249
+   "meanErr": 33.1,
+   "flatMeanErr": 40.0,
+   "n": 3284
   }
  },
  "coefficients": {
   "low/7": {
    "bias": -0.043,
-   "revert": -0.076,
-   "momentum": -0.238,
-   "season": 0.2,
-   "seasonGap": 0.162,
-   "volume": -0.037,
+   "revert": -0.075,
+   "momentum": -0.239,
+   "season": 0.201,
+   "seasonGap": 0.161,
+   "volume": -0.036,
    "rain21": 0.011,
    "rain7": 0.028,
-   "festival": -0.018
+   "festival": -0.017
   },
   "low/14": {
    "bias": -0.046,
    "revert": -0.092,
    "momentum": -0.203,
-   "season": 0.159,
-   "seasonGap": 0.182,
-   "volume": -0.031,
+   "season": 0.173,
+   "seasonGap": 0.181,
+   "volume": -0.03,
    "rain21": 0.017,
-   "rain7": 0.024,
+   "rain7": 0.025,
    "festival": -0.023
   },
   "low/21": {
-   "bias": -0.053,
-   "revert": -0.101,
-   "momentum": -0.221,
-   "season": 0.035,
-   "seasonGap": 0.245,
+   "bias": -0.052,
+   "revert": -0.1,
+   "momentum": -0.219,
+   "season": 0.03,
+   "seasonGap": 0.244,
    "volume": -0.032,
-   "rain21": 0.027,
-   "rain7": 0.028,
-   "festival": -0.017
+   "rain21": 0.025,
+   "rain7": 0.029,
+   "festival": -0.016
   },
   "low/28": {
    "bias": -0.061,
    "revert": -0.106,
    "momentum": -0.204,
-   "season": 0.128,
-   "seasonGap": 0.293,
-   "volume": -0.028,
-   "rain21": 0.022,
+   "season": 0.139,
+   "seasonGap": 0.292,
+   "volume": -0.03,
+   "rain21": 0.021,
    "rain7": 0.035,
-   "festival": -0.025
+   "festival": -0.024
   },
   "low/42": {
-   "bias": -0.064,
-   "revert": -0.117,
-   "momentum": -0.185,
-   "season": 0.159,
-   "seasonGap": 0.355,
-   "volume": -0.034,
-   "rain21": 0.041,
+   "bias": -0.063,
+   "revert": -0.116,
+   "momentum": -0.188,
+   "season": 0.171,
+   "seasonGap": 0.353,
+   "volume": -0.035,
+   "rain21": 0.042,
    "rain7": 0.02,
-   "festival": -0.018
+   "festival": -0.017
   },
   "low/56": {
    "bias": -0.073,
-   "revert": -0.119,
-   "momentum": -0.171,
-   "season": 0.124,
-   "seasonGap": 0.406,
+   "revert": -0.118,
+   "momentum": -0.169,
+   "season": 0.134,
+   "seasonGap": 0.404,
    "volume": -0.044,
    "rain21": 0.051,
-   "rain7": 0.024,
-   "festival": -0.01
+   "rain7": 0.025,
+   "festival": -0.009
   },
   "mid/7": {
-   "bias": -0.071,
-   "revert": -0.117,
-   "momentum": -0.126,
-   "season": 0.022,
-   "seasonGap": 0.181,
-   "volume": -0.064,
+   "bias": -0.07,
+   "revert": -0.116,
+   "momentum": -0.127,
+   "season": 0.024,
+   "seasonGap": 0.18,
+   "volume": -0.063,
    "rain21": -0.026,
    "rain7": 0.042,
-   "festival": -0.013
+   "festival": -0.012
   },
   "mid/14": {
-   "bias": -0.086,
-   "revert": -0.136,
+   "bias": -0.085,
+   "revert": -0.135,
    "momentum": -0.121,
-   "season": -0.025,
-   "seasonGap": 0.275,
-   "volume": -0.081,
-   "rain21": -0.002,
-   "rain7": 0.032,
-   "festival": 0.003
+   "season": -0.024,
+   "seasonGap": 0.273,
+   "volume": -0.08,
+   "rain21": -0.006,
+   "rain7": 0.034,
+   "festival": 0.005
   },
   "mid/21": {
-   "bias": -0.098,
-   "revert": -0.169,
-   "momentum": -0.098,
-   "season": -0.074,
-   "seasonGap": 0.35,
-   "volume": -0.106,
-   "rain21": 0.017,
-   "rain7": 0.004,
-   "festival": -0.008
+   "bias": -0.097,
+   "revert": -0.167,
+   "momentum": -0.1,
+   "season": -0.073,
+   "seasonGap": 0.349,
+   "volume": -0.108,
+   "rain21": 0.014,
+   "rain7": 0.005,
+   "festival": -0.007
   },
   "mid/28": {
-   "bias": -0.115,
-   "revert": -0.177,
-   "momentum": -0.078,
-   "season": -0.018,
+   "bias": -0.112,
+   "revert": -0.174,
+   "momentum": -0.086,
+   "season": -0.016,
    "seasonGap": 0.412,
-   "volume": -0.11,
-   "rain21": 0.045,
-   "rain7": 0.0,
-   "festival": 0.006
+   "volume": -0.112,
+   "rain21": 0.043,
+   "rain7": -0.001,
+   "festival": 0.008
   },
   "mid/42": {
-   "bias": -0.149,
-   "revert": -0.216,
-   "momentum": -0.061,
+   "bias": -0.148,
+   "revert": -0.213,
+   "momentum": -0.062,
    "season": -0.061,
-   "seasonGap": 0.495,
-   "volume": -0.119,
-   "rain21": 0.073,
+   "seasonGap": 0.493,
+   "volume": -0.121,
+   "rain21": 0.074,
    "rain7": 0.003,
-   "festival": 0.021
+   "festival": 0.022
   },
   "mid/56": {
-   "bias": -0.172,
-   "revert": -0.244,
-   "momentum": -0.055,
+   "bias": -0.171,
+   "revert": -0.241,
+   "momentum": -0.054,
    "season": -0.119,
-   "seasonGap": 0.548,
-   "volume": -0.123,
-   "rain21": 0.049,
-   "rain7": 0.019,
-   "festival": 0.014
+   "seasonGap": 0.547,
+   "volume": -0.124,
+   "rain21": 0.048,
+   "rain7": 0.021,
+   "festival": 0.018
   },
   "high/7": {
-   "bias": -0.057,
+   "bias": -0.056,
    "revert": -0.082,
-   "momentum": -0.126,
+   "momentum": -0.127,
    "season": -0.181,
-   "seasonGap": 0.239,
-   "volume": -0.057,
-   "rain21": 0.015,
-   "rain7": 0.018,
-   "festival": -0.026
+   "seasonGap": 0.236,
+   "volume": -0.058,
+   "rain21": 0.013,
+   "rain7": 0.019,
+   "festival": -0.025
   },
   "high/14": {
-   "bias": -0.076,
-   "revert": -0.116,
+   "bias": -0.074,
+   "revert": -0.115,
    "momentum": -0.094,
-   "season": -0.196,
-   "seasonGap": 0.319,
-   "volume": -0.064,
-   "rain21": 0.047,
-   "rain7": 0.021,
-   "festival": -0.005
+   "season": -0.2,
+   "seasonGap": 0.316,
+   "volume": -0.065,
+   "rain21": 0.042,
+   "rain7": 0.024,
+   "festival": -0.004
   },
   "high/21": {
-   "bias": -0.077,
-   "revert": -0.141,
-   "momentum": -0.069,
+   "bias": -0.074,
+   "revert": -0.138,
+   "momentum": -0.075,
    "season": -0.103,
-   "seasonGap": 0.393,
-   "volume": -0.099,
-   "rain21": 0.109,
-   "rain7": -0.022,
-   "festival": -0.037
+   "seasonGap": 0.388,
+   "volume": -0.104,
+   "rain21": 0.1,
+   "rain7": -0.019,
+   "festival": -0.035
   },
   "high/28": {
-   "bias": -0.1,
-   "revert": -0.165,
-   "momentum": -0.043,
-   "season": -0.119,
-   "seasonGap": 0.428,
-   "volume": -0.124,
-   "rain21": 0.131,
-   "rain7": -0.005,
-   "festival": -0.018
+   "bias": -0.095,
+   "revert": -0.163,
+   "momentum": -0.049,
+   "season": -0.122,
+   "seasonGap": 0.425,
+   "volume": -0.129,
+   "rain21": 0.128,
+   "rain7": -0.008,
+   "festival": -0.015
   },
   "high/42": {
-   "bias": -0.132,
-   "revert": -0.203,
-   "momentum": -0.03,
-   "season": -0.002,
-   "seasonGap": 0.493,
-   "volume": -0.151,
-   "rain21": 0.104,
-   "rain7": 0.043,
-   "festival": 0.002
+   "bias": -0.129,
+   "revert": -0.201,
+   "momentum": -0.032,
+   "season": 0.017,
+   "seasonGap": 0.487,
+   "volume": -0.155,
+   "rain21": 0.107,
+   "rain7": 0.042,
+   "festival": 0.004
   },
   "high/56": {
-   "bias": -0.137,
+   "bias": -0.135,
    "revert": -0.219,
-   "momentum": -0.049,
-   "season": -0.021,
-   "seasonGap": 0.525,
-   "volume": -0.162,
-   "rain21": 0.11,
+   "momentum": -0.044,
+   "season": -0.011,
+   "seasonGap": 0.519,
+   "volume": -0.165,
+   "rain21": 0.113,
    "rain7": 0.04,
-   "festival": 0.003
+   "festival": 0.004
   }
  },
- "generated": "2026-10-26"
+ "generated": "2026-10-27"
 }
