@@ -1,17 +1,17 @@
 {
-  "date": "30 Oct 2026",
+  "date": "3 Nov 2026",
   "source": "National Wholesale Market (AMB)",
-  "source_url": "https://ambmauritius.mu/wp-content/uploads/2026/10/DAILY-NWM-STATISTICS-VEG-FRUITS-30.10.26.pdf",
+  "source_url": "https://ambmauritius.mu/wp-content/uploads/2026/11/DAILY-NWM-STATISTICS-VEG-FRUITS-03.11.26.pdf",
   "updated_count": 40,
   "total_crops": 44,
-  "sentiment": "Association planteur e marchand legume, fruit maurice | Maison /Terrain a vendre a petit prix (maurice) | ki legume oupe recolter, acheter direk ek planteur. | BAZE POUR VENDRE TOUT LEGUMES",
+  "sentiment": "Association planteur e marchand legume, fruit maurice | ki legume oupe recolter, acheter direk ek planteur. | BAZE POUR VENDRE TOUT LEGUMES | Maurice Le Planteur Sakpe",
   "prices": {
     "aubergine": {
-      "low": 30,
-      "high": 50,
+      "low": 20,
+      "high": 40,
       "common": 40,
       "unit": "kg",
-      "qty": 1447
+      "qty": 5725
     },
     "banana": {
       "low": 3,
@@ -32,203 +32,203 @@
       "high": 130,
       "common": 110,
       "unit": "kg",
-      "qty": 1211
+      "qty": 1857
     },
     "beetroot": {
-      "low": 7,
-      "high": 15,
+      "low": 15,
+      "high": 17,
       "common": 12,
       "unit": "unit",
-      "qty": 3050
+      "qty": 4400
     },
     "broccoli": {
-      "low": 40,
-      "high": 75,
-      "common": 60,
+      "low": 35,
+      "high": 40,
+      "common": 35,
       "unit": "unit",
-      "qty": 410
+      "qty": 1150
     },
     "cabbage": {
       "low": 15,
-      "high": 25,
-      "common": 20,
-      "unit": "unit",
-      "qty": 6110
-    },
-    "carrot": {
-      "low": 16,
-      "high": 24,
-      "common": 20,
-      "unit": "kg",
-      "qty": 9020
-    },
-    "cassava": {
-      "low": 20,
-      "high": 30,
-      "common": 20,
-      "unit": "kg",
-      "qty": 580
-    },
-    "cauliflower": {
-      "low": 40,
-      "high": 60,
-      "common": 50,
-      "unit": "unit",
-      "qty": 1245
-    },
-    "celery": {
-      "low": 80,
-      "high": 100,
-      "common": 80,
-      "unit": "kg",
-      "qty": 313
-    },
-    "coriander": {
-      "low": 80,
-      "high": 100,
-      "common": 100,
-      "unit": "kg",
-      "qty": 916
-    },
-    "courgette": {
-      "low": 10,
       "high": 20,
       "common": 15,
       "unit": "unit",
-      "qty": 1100
+      "qty": 4850
+    },
+    "carrot": {
+      "low": 20,
+      "high": 44,
+      "common": 40,
+      "unit": "kg",
+      "qty": 3930
+    },
+    "cassava": {
+      "low": 30,
+      "high": 30,
+      "common": 30,
+      "unit": "kg",
+      "qty": 840
+    },
+    "cauliflower": {
+      "low": 30,
+      "high": 50,
+      "common": 40,
+      "unit": "unit",
+      "qty": 1050
+    },
+    "celery": {
+      "low": 100,
+      "high": 150,
+      "common": 100,
+      "unit": "kg",
+      "qty": 250
+    },
+    "coriander": {
+      "low": 50,
+      "high": 150,
+      "common": 120,
+      "unit": "kg",
+      "qty": 890
+    },
+    "courgette": {
+      "low": 20,
+      "high": 25,
+      "common": 25,
+      "unit": "unit",
+      "qty": 2580
     },
     "cucumber": {
-      "low": 30,
+      "low": 25,
       "high": 60,
       "common": 40,
       "unit": "unit",
-      "qty": 5175
+      "qty": 5725
     },
     "garlic": {
       "low": 160,
       "high": 160,
       "common": 160,
       "unit": "kg",
-      "qty": 600
+      "qty": 400
     },
     "ginger": {
-      "low": 60,
+      "low": 50,
       "high": 70,
-      "common": 60,
+      "common": 70,
       "unit": "kg",
-      "qty": 600
+      "qty": 765
     },
     "gourd": {
-      "low": 10,
+      "low": 16,
       "high": 30,
-      "common": 25,
+      "common": 20,
       "unit": "kg",
-      "qty": 2800
+      "qty": 7680
     },
     "kohlrabi": {
-      "low": 4,
-      "high": 7,
-      "common": 5,
+      "low": 5,
+      "high": 10,
+      "common": 6,
       "unit": "unit",
-      "qty": 680
+      "qty": 700
     },
     "leek": {
       "low": 10,
       "high": 15,
       "common": 15,
       "unit": "unit",
-      "qty": 430
+      "qty": 340
     },
     "lettuce": {
       "low": 10,
       "high": 20,
       "common": 15,
       "unit": "unit",
-      "qty": 1125
+      "qty": 2370
     },
     "mint": {
       "low": 80,
-      "high": 150,
-      "common": 100,
+      "high": 100,
+      "common": 80,
       "unit": "kg",
-      "qty": 140
+      "qty": 120
     },
     "okra": {
-      "low": 300,
-      "high": 350,
+      "low": 150,
+      "high": 400,
       "common": 300,
       "unit": "kg",
-      "qty": 680
+      "qty": 860
     },
     "onion": {
       "low": 40,
       "high": 44,
       "common": 44,
       "unit": "kg",
-      "qty": 4200
+      "qty": 4500
     },
     "papaya": {
-      "low": 20,
-      "high": 30,
-      "common": 20,
+      "low": 25,
+      "high": 25,
+      "common": 25,
       "unit": "kg",
-      "qty": 125
+      "qty": 205
     },
     "parsley": {
-      "low": 80,
-      "high": 100,
-      "common": 80,
+      "low": 100,
+      "high": 150,
+      "common": 130,
       "unit": "kg",
-      "qty": 151
+      "qty": 120
     },
     "pattypan": {
-      "low": 10,
-      "high": 20,
-      "common": 20,
+      "low": 20,
+      "high": 30,
+      "common": 30,
       "unit": "unit",
-      "qty": 1230
+      "qty": 1905
     },
     "peanut": {
-      "low": 150,
-      "high": 170,
-      "common": 160,
+      "low": 200,
+      "high": 220,
+      "common": 200,
       "unit": "kg",
-      "qty": 660
+      "qty": 685
     },
     "pepper-hot": {
       "low": 200,
       "high": 250,
       "common": 250,
       "unit": "kg",
-      "qty": 415
+      "qty": 364
     },
     "pepper-sweet": {
-      "low": 60,
-      "high": 90,
-      "common": 80,
+      "low": 70,
+      "high": 100,
+      "common": 90,
       "unit": "kg",
-      "qty": 1665
+      "qty": 980
     },
     "petsai": {
-      "low": 10,
+      "low": 15,
       "high": 15,
       "common": 15,
       "unit": "unit",
-      "qty": 990
+      "qty": 1100
     },
     "potato": {
       "low": 40,
       "high": 44,
       "common": 44,
       "unit": "kg",
-      "qty": 4250
+      "qty": 8000
     },
     "pumpkin": {
-      "low": 10,
+      "low": 16,
       "high": 20,
       "common": 16,
       "unit": "kg",
-      "qty": 13925
+      "qty": 8950
     },
     "radish": {
       "low": 3,
@@ -245,11 +245,11 @@
       "qty": 370
     },
     "spinach": {
-      "low": 20,
-      "high": 30,
-      "common": 30,
+      "low": 40,
+      "high": 50,
+      "common": 40,
       "unit": "kg",
-      "qty": 115
+      "qty": 150
     },
     "squash": {
       "low": 60,
@@ -259,60 +259,60 @@
       "qty": 532
     },
     "sweet-potato": {
-      "low": 10,
-      "high": 50,
-      "common": 30,
+      "low": 20,
+      "high": 40,
+      "common": 40,
       "unit": "kg",
-      "qty": 3100
+      "qty": 16080
     },
     "sweetcorn": {
       "low": 10,
       "high": 15,
       "common": 15,
       "unit": "unit",
-      "qty": 1800
+      "qty": 4000
     },
     "taro": {
-      "low": 120,
-      "high": 140,
-      "common": 130,
+      "low": 80,
+      "high": 80,
+      "common": 80,
       "unit": "kg",
-      "qty": 380
+      "qty": 3170
     },
     "thyme": {
-      "low": 80,
+      "low": 70,
       "high": 100,
       "common": 100,
       "unit": "kg",
-      "qty": 412
+      "qty": 216
     },
     "tomato": {
-      "low": 10,
-      "high": 30,
+      "low": 20,
+      "high": 24,
       "common": 20,
       "unit": "kg",
-      "qty": 9440
+      "qty": 26190
     },
     "watercress": {
-      "low": 10,
-      "high": 15,
-      "common": 15,
+      "low": 18,
+      "high": 20,
+      "common": 20,
       "unit": "pkt",
-      "qty": 524
+      "qty": 410
     },
     "watermelon": {
-      "low": 80,
+      "low": 50,
       "high": 100,
-      "common": 80,
+      "common": 50,
       "unit": "kg",
-      "qty": 6600
+      "qty": 9000
     },
     "welsh-onion": {
-      "low": 200,
-      "high": 250,
-      "common": 250,
+      "low": 150,
+      "high": 200,
+      "common": 150,
       "unit": "kg",
-      "qty": 578
+      "qty": 457
     }
   },
   "sentiment_source": "Facebook Mauritian farming groups (raw chatter, unverified)"
