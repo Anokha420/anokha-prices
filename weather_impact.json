@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-20",
  "tiers": {
   "low": {
    "watch": [
@@ -15,20 +15,20 @@
   },
   "medium": {
    "watch": [
-    6,
+    5,
     9
    ],
    "watchN": 680,
    "alert": [
     -14,
-    1
+    0
    ],
    "alertN": 28
   },
   "high": {
    "watch": [
     2,
-    5
+    6
    ],
    "watchN": 529,
    "alert": null
