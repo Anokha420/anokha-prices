@@ -478,12 +478,12 @@
   "7": {
    "meanErr": 19.2,
    "flatMeanErr": 19.5,
-   "n": 3758
+   "n": 3760
   },
   "14": {
    "meanErr": 22.8,
    "flatMeanErr": 23.6,
-   "n": 3716
+   "n": 3717
   },
   "21": {
    "meanErr": 25.7,
@@ -503,30 +503,30 @@
   "56": {
    "meanErr": 33.1,
    "flatMeanErr": 39.4,
-   "n": 3442
+   "n": 3443
   }
  },
  "coefficients": {
   "low/7": {
    "bias": -0.041,
    "revert": -0.079,
-   "momentum": -0.236,
-   "season": 0.171,
+   "momentum": -0.237,
+   "season": 0.172,
    "seasonGap": 0.157,
-   "volume": -0.037,
-   "rain21": 0.01,
+   "volume": -0.036,
+   "rain21": 0.009,
    "rain7": 0.027,
    "festival": -0.019
   },
   "low/14": {
-   "bias": -0.045,
-   "revert": -0.099,
-   "momentum": -0.199,
-   "season": 0.155,
-   "seasonGap": 0.177,
-   "volume": -0.033,
-   "rain21": 0.017,
-   "rain7": 0.025,
+   "bias": -0.044,
+   "revert": -0.1,
+   "momentum": -0.198,
+   "season": 0.157,
+   "seasonGap": 0.176,
+   "volume": -0.032,
+   "rain21": 0.016,
+   "rain7": 0.024,
    "festival": -0.021
   },
   "low/21": {
@@ -564,35 +564,35 @@
   },
   "low/56": {
    "bias": -0.068,
-   "revert": -0.134,
-   "momentum": -0.171,
-   "season": 0.141,
-   "seasonGap": 0.394,
+   "revert": -0.135,
+   "momentum": -0.17,
+   "season": 0.142,
+   "seasonGap": 0.392,
    "volume": -0.051,
    "rain21": 0.051,
    "rain7": 0.023,
    "festival": -0.008
   },
   "mid/7": {
-   "bias": -0.063,
-   "revert": -0.109,
-   "momentum": -0.131,
-   "season": 0.034,
-   "seasonGap": 0.169,
-   "volume": -0.055,
-   "rain21": -0.029,
+   "bias": -0.062,
+   "revert": -0.108,
+   "momentum": -0.132,
+   "season": 0.041,
+   "seasonGap": 0.168,
+   "volume": -0.054,
+   "rain21": -0.03,
    "rain7": 0.041,
    "festival": -0.016
   },
   "mid/14": {
-   "bias": -0.077,
-   "revert": -0.125,
+   "bias": -0.075,
+   "revert": -0.124,
    "momentum": -0.131,
-   "season": -0.009,
-   "seasonGap": 0.26,
+   "season": -0.002,
+   "seasonGap": 0.257,
    "volume": -0.073,
-   "rain21": -0.008,
-   "rain7": 0.033,
+   "rain21": -0.009,
+   "rain7": 0.032,
    "festival": 0.004
   },
   "mid/21": {
@@ -631,10 +631,10 @@
   "mid/56": {
    "bias": -0.155,
    "revert": -0.223,
-   "momentum": -0.069,
-   "season": -0.107,
+   "momentum": -0.07,
+   "season": -0.106,
    "seasonGap": 0.528,
-   "volume": -0.147,
+   "volume": -0.146,
    "rain21": 0.046,
    "rain7": 0.019,
    "festival": 0.025
@@ -643,18 +643,18 @@
    "bias": -0.053,
    "revert": -0.082,
    "momentum": -0.129,
-   "season": -0.151,
-   "seasonGap": 0.235,
-   "volume": -0.059,
+   "season": -0.15,
+   "seasonGap": 0.234,
+   "volume": -0.058,
    "rain21": 0.011,
    "rain7": 0.019,
    "festival": -0.022
   },
   "high/14": {
-   "bias": -0.072,
-   "revert": -0.116,
-   "momentum": -0.097,
-   "season": -0.184,
+   "bias": -0.071,
+   "revert": -0.115,
+   "momentum": -0.098,
+   "season": -0.185,
    "seasonGap": 0.313,
    "volume": -0.067,
    "rain21": 0.04,
@@ -695,16 +695,16 @@
    "festival": 0.015
   },
   "high/56": {
-   "bias": -0.129,
+   "bias": -0.128,
    "revert": -0.214,
-   "momentum": -0.051,
-   "season": -0.003,
-   "seasonGap": 0.514,
-   "volume": -0.181,
-   "rain21": 0.109,
+   "momentum": -0.053,
+   "season": -0.005,
+   "seasonGap": 0.515,
+   "volume": -0.182,
+   "rain21": 0.108,
    "rain7": 0.041,
    "festival": 0.014
   }
  },
- "generated": "2026-11-27"
+ "generated": "2026-11-28"
 }
